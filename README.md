@@ -3,6 +3,10 @@
 ## 🚀 About the Project
 SeatSync is a smart office seat planning tool designed to help organizations efficiently allocate and manage office seating across multiple locations. It aims to optimize real estate costs and support future growth.
 
+## project screenshots
+![Description](https://github.com/KSSR04/HAL-SeatSync-InfiniteLoopers/tree/main/proj%20img/login.png)
+
+
 ## ✨ Features
 - 📍 **Seat Allocation & Management** - Assign seats dynamically.
 - 📊 **Real-time Visualization** - Interactive office layout mapping.
